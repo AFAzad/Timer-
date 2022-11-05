@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.timer_container{
+    background-color: #fff;
+    color:black;
+    height: 450px;
+    text-transform: inherit;
+}
+.display_timer{
+   padding-top: 35px;
+   margin: 35px;
+}
+.restart{
+    height: 40px;
+    width: 60px;
+    margin: 15px;
+    background-color:rgb(37, 192, 37);
+    color: black;
+    text-decoration: solid;
+    border-radius: 0.2rem;
+}
+.stop{
+    height: 40px;
+    width: 60px;
+    margin: 15px;
+    background-color: rgb(202, 100, 100);
+    color: #fff;
+    text-transform: inherit;
+    border-radius: 0.2rem;
+    
+}
